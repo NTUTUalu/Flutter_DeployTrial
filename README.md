@@ -1,4 +1,4 @@
-# Flutter_DeployTrial
+# Flutter_DeployTrial GROUP 7 - Decra, Ntutu, Sankoh
 
 The running ui folder shows the UI we build which we were going to do a trial to connect to the firebase
 
