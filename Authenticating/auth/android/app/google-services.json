@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "928785083428",
+    "project_id": "decra-919a2",
+    "storage_bucket": "decra-919a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928785083428:android:02ef9742c456f932cdfcb1",
+        "android_client_info": {
+          "package_name": "com.example.auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "928785083428-kqd961qhcuf7kr3f94n0d87t7bt1vm2g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9-ePComemrTsfqAoNJ6K1zFSlAEaOLWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "928785083428-kqd961qhcuf7kr3f94n0d87t7bt1vm2g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
